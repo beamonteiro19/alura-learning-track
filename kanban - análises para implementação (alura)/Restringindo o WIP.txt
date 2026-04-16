@@ -1,0 +1,9 @@
+A aula começa explicando os problemas de manter um trabalho em andamento alto. O principal ponto é que o cérebro humano não trabalha bem com multitarefa. Mesmo que pareça que estamos sendo produtivos ao fazer várias coisas ao mesmo tempo, na verdade há um tempo de transição entre tarefas que torna tudo mais lento. Quando você alterna entre várias tarefas, demora bem mais do que se estivesse focado em uma única.
+
+Além disso, alternar constantemente entre tarefas reduz a produtividade e aumenta a complexidade do trabalho. É menos prejudicial quando as tarefas são parecidas, mas de qualquer forma é prejudicial.
+
+A solução é focar em menos tarefas. Se o time trabalhar junto em uma única tarefa em vez de se dividir entre várias, essa tarefa será entregue muito mais rápido.
+
+A aula também aborda um caso especial: a coluna de teste. Como testes geralmente são mais rápidos que outras etapas, é possível criar um acúmulo de cartões aguardando teste, sem que isso seja considerado um bloqueio. Isso é diferente de um bloqueio real, que impede o cartão de avançar e exige ação imediata do time.
+
+Por fim, a aula enfatiza que você precisa medir e acompanhar métricas para saber qual é o melhor limite de WIP para seu processo e garantir fluidez nas entregas.

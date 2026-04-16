@@ -1,0 +1,13 @@
+A aula apresenta as quatro métricas fundamentais do Kanban, baseadas na teoria das filas. Roberto Sabino explica que para usar essas métricas é necessário entender tanto a teoria quanto a aplicação prática.
+
+As métricas apresentadas são:
+
+Lead Time - É o tempo total desde que o cliente faz o pedido até a entrega do produto. Importante notar que o ponto de partida do lead time depende de quando você considera que recebeu a demanda do cliente. Se o combinado for começar a contar a partir da análise, então o lead time inicia ali, não no backlog.
+
+Cycle Time - É o tempo necessário para executar uma atividade específica, medido pela mudança de coluna no quadro Kanban. Diferente do lead time, você pode medir o cycle time de diferentes formas, dependendo do que faz sentido para seu contexto. Por exemplo, o cycle time apenas da análise, ou da análise até o teste.
+
+Work in Progress (WIP) - Representa todas as tarefas que já foram iniciadas e ainda estão em processo. Pode ser medido de forma geral para todo o sistema ou de forma específica para cada coluna do quadro.
+
+Throughput - É a vazão, ou seja, a quantidade média de itens que o time consegue entregar em um determinado período de tempo.
+
+A aula também menciona a Lei de Little, uma fórmula que relaciona essas métricas: Lead Time = Work in Progress ÷ Throughput.

@@ -1,0 +1,17 @@
+A aula começa explicando o conceito de Proto-Kanban, que é um estágio inicial de implementação do Kanban. Não é um sistema Kanban completo ainda, mas sim um caminho evolutivo para chegar lá.
+
+Em seguida, o instrutor apresenta os quatro princípios fundamentais do Kanban:
+
+Comece pelo que você já faz - melhore a partir do que já existe, sem grandes revoluções.
+Respeite a estrutura atual de papéis, responsabilidades e cargos - não é necessário mudar tudo de uma vez.
+Incentive atos de liderança em todos os níveis - promova iniciativa e autonomia nas pessoas.
+Busque mudanças evolucionárias - faça pequenas melhorias contínuas que geram grande impacto ao longo do tempo.
+Depois, são apresentadas seis boas práticas do Kanban:
+
+Visualizar o fluxo de trabalho
+Tornar as políticas do processo explícitas
+Limitar o trabalho em progresso (WIP)
+Entregar frequentemente
+Medir e gerenciar o fluxo de trabalho
+Estabelecer cadências de comunicação
+Por fim, a aula detalha como essas mudanças afetarão cada pessoa da equipe: o líder de negócios, os desenvolvedores, a gerente e a líder do projeto, mostrando os benefícios práticos para cada um.

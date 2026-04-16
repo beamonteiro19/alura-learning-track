@@ -1,0 +1,7 @@
+A aula aborda as dificuldades práticas que surgem ao trabalhar com Kanban no dia a dia. A Léia Líder e seu time começaram a perceber que alguns elementos do quadro, como os cartões azuis de detalhe, não estavam ajudando e precisavam ser eliminados. Isso ilustra um princípio importante: fazer mudanças incrementais, que podem ser adicionar algo novo, começar uma prática diferente ou deixar de fazer o que não funciona.
+
+O time também enfrenta um desafio comum: receber solicitações urgentes diretas da equipe de negócios, fora do fluxo normal. Surgem então perguntas importantes: colocar todas essas pequenas tarefas no quadro? O que fazer com os cartões que já estão lá?
+
+A aula destaca um ponto crítico: quando você coloca muitas pequenas tarefas no quadro, aumenta bastante o trabalho em andamento (WIP), o que vai contra um dos princípios do Kanban de diminuir o WIP. Além disso, isso prejudica a entrega das tarefas planejadas.
+
+A solução apresentada é que os cartões devem entrar no quadro para visualizar o problema, mas não devem voltar ao backlog depois de iniciados, pois isso prejudica a previsibilidade e a fluidez das entregas. Para lidar com as urgências, a sugestão é criar uma raia específica para coisas urgentes, que funciona de forma diferente das outras colunas.

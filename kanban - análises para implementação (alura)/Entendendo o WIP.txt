@@ -1,0 +1,12 @@
+A aula aborda o conceito fundamental de Work in Progress (WIP), ou trabalho em andamento, que é considerado um dos pilares mais importantes do método Kanban.
+
+O instrutor começa analisando um quadro Kanban e identifica um problema crítico: há muitos itens na coluna "Doing" (em andamento) e poucos itens finalizados na coluna "Done". Isso significa que muitas tarefas foram iniciadas, mas poucas foram concluídas.
+
+O ponto central da aula é a frase: "Pare de começar e comece a terminar". Em vez de iniciar várias tarefas simultaneamente, o ideal é completar uma tarefa antes de começar outra.
+
+A aula também explica que:
+
+Limitar o trabalho em andamento é uma das práticas essenciais do Kanban
+O backlog vazio não é necessariamente bom, pois indica que tudo foi iniciado por "desespero" de mostrar serviço
+Itens em teste ou aguardando (waiting) são diferentes de itens em andamento e não são o foco principal neste momento
+Um quadro Kanban sem limitação de WIP não pode ser considerado completo ou equilibrado

@@ -1,0 +1,15 @@
+A aula aborda a importância de criar políticas explícitas no Kanban, que são regras claras e escritas para o funcionamento do sistema. O instrutor enfatiza que deixar as coisas claras é sempre melhor do que deixar em aberto.
+
+O contexto apresentado é a Léia Líder reunindo a equipe para resolver um problema: o Léo Rico estava pedindo tudo como urgente, o que prejudicava o processo. A Mana reforça que o mais importante é entregar valor para o cliente, e para isso é necessário deixar tudo às claras.
+
+A aula então apresenta a política explícita de itens urgentes com quatro regras principais:
+
+Somente itens aparentes para clientes externos podem ser marcados como urgentes (não inclui demandas internas da equipe).
+
+Todo item urgente deve ser imediatamente atribuído a um ou mais desenvolvedores.
+
+Nenhum desenvolvedor pode estar relacionado a mais de um item urgente ao mesmo tempo.
+
+Um desenvolvedor relacionado a um item urgente não pode trabalhar em nenhum item não-urgente até que o urgente esteja concluído.
+
+A aula termina convidando você a analisar essa política e, se necessário, reescrevê-la para deixá-la ainda mais clara, como uma atividade prática.

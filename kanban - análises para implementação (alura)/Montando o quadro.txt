@@ -1,0 +1,9 @@
+A aula aborda como estruturar o quadro Kanban para sua equipe. O ponto de partida é entender que o Kanban difere do Scrum em um aspecto importante: enquanto no Scrum o backlog é o elemento central, no Kanban é o quadro que deve refletir o seu processo produtivo real.
+
+A Léia Líder, que já usava Scrum com colunas básicas (a fazer, fazendo, feito), percebe que o quadro Kanban precisa ser mais específico. Em vez de apenas categorizar tarefas por status genérico, o quadro deve visualizar as etapas reais do seu processo. Por exemplo, se você está fazendo pão, o quadro teria: misturar ingredientes, amassar, colocar no forno, retirar do forno.
+
+Um aprendizado importante é não começar com um quadro muito complexo. Isso pode atrapalhar a implementação do método. O ideal é começar simples e evoluir conforme a equipe entende melhor seu próprio processo.
+
+Para a equipe de manutenção de sistemas da Léia Líder, o quadro proposto fica assim: Backlog, Fazendo, Testes e Finalizado. A coluna de testes é importante porque há diferentes tipos de teste (do desenvolvedor, da equipe e do cliente).
+
+O quadro Kanban será o lugar onde tudo fica visível, permitindo que a equipe visualize a quantidade de trabalho pendente.

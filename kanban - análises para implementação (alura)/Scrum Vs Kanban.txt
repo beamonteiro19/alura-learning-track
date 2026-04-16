@@ -1,0 +1,13 @@
+A aula começa com a situação da Léia Líder, que propõe mudar do framework Scrum para o método Kanban, mas apenas para as equipes focadas em manutenção de sistemas na Bytebank. Ela sugere também remover o Product Owner dessas equipes e usar um quadro físico em vez de ferramentas eletrônicas.
+
+A partir disso, o instrutor Roberto Sabino explora as principais diferenças entre Scrum e Kanban:
+
+Fluxo de trabalho: Scrum funciona de forma iterativa e incremental, dividido em sprints de até um mês, enquanto Kanban trabalha com fluxo contínuo, onde o trabalho flui de maneira mais constante e os impedimentos devem ser eliminados rapidamente.
+
+Método vs Framework: Kanban é considerado um método pouco prescritivo, enquanto Scrum é um framework mais prescritivo. Isso significa que Kanban oferece mais liberdade e não define papéis ou cerimônias fixas, enquanto Scrum estabelece papéis, eventos e artefatos específicos.
+
+Maturidade do time: Kanban pode gerar menos resistência por ser menos prescritivo e permitir aprendizado na prática. Não é necessário conhecimento prévio de agilidade para começar.
+
+Gestão: Scrum trabalha mais com backlog, enquanto Kanban enfatiza a gestão visual. A gestão visual ajuda a visualizar gargalos e agrega o time em torno de um objetivo comum.
+
+Recomendações da Léia Líder: Scrum para produtos novos, Kanban para manutenção de produtos, e ambos podem ser usados para novas funcionalidades em produtos já em produção.

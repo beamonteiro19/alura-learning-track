@@ -1,0 +1,7 @@
+A aula aborda a importância de colaborar com o cliente ao implementar a limitação do Work in Progress (WIP) no Kanban. A Léia Líder explica ao Léo Rico que limitar o WIP não significa negar atendimento, mas sim focar em poucas tarefas por vez para que elas avancem mais rapidamente.
+
+A prática consiste em colocar um número na coluna que será limitada, indicando o máximo de cartões permitidos. Por exemplo, se a coluna "Fazendo" tem limite de 3, você não pode puxar um quarto cartão enquanto um dos três não avançar para a próxima etapa.
+
+Um ponto importante mencionado é que os cartões devem ter tamanhos mais ou menos iguais. Não faz sentido ter cartões muito grandes (como dez dias) ou muito pequenos (como uma hora). Para um time, um dia é geralmente uma quantidade de trabalho adequada.
+
+A limitação do WIP melhora o fluxo de trabalho e permite entregar valor com maior frequência. Porém, o cliente pode ter desconfiança no início, então é essencial demonstrar na prática que essa abordagem realmente funciona. Se aplicado corretamente, o Kanban com WIP limitado é uma boa prática que ajuda bastante a equipe.

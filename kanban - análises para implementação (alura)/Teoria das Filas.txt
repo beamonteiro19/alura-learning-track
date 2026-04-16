@@ -1,0 +1,9 @@
+A aula introduz a Teoria das Filas como um campo matemático que estuda o comportamento da formação de filas em sistemas com demanda aleatória. Essa teoria é fundamental para entender o Kanban, já que o quadro Kanban representa um sistema de atendimento onde as demandas chegam de forma imprevisível.
+
+O conceito principal é que se a demanda (entrada) for maior que a vazão (saída), a fila tende a crescer infinitamente. Por outro lado, um sistema está em equilíbrio quando as entradas e saídas se equivalem em um período de tempo determinado, mesmo que em dias específicos haja desproporção.
+
+Para alcançar esse equilíbrio e melhorar o sistema, é necessário medir. Como diz a frase citada: "Aquilo que não se pode medir, não se pode melhorar". Para isso, o Kanban utiliza quatro métricas principais: lead time (tempo de atendimento), cycle time (tempo de ciclo), work in progress (trabalho em andamento) e throughput (vazão).
+
+A aula também apresenta a Lei de Little, que relaciona essas métricas através da fórmula: lead time = work in progress / throughput.
+
+Por fim, reforça que o Kanban é um método evolucionário, e as métricas são essenciais para sua evolução contínua.

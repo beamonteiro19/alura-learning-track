@@ -1,0 +1,9 @@
+Roberto Sabino faz uma revisão completa de tudo que foi abordado durante o curso. Ele começa relembrando que o treinamento cobriu muito conhecimento, desde a análise do cenário inicial até conceitos avançados.
+
+Um ponto importante que ele destaca é que Scrum versus Kanban não deve ser uma "briga de torcidas". Ele menciona que existe o Scrumban, que combina as melhores práticas dos dois métodos. Segundo a análise feita no curso, Scrum é melhor para produtos novos e novas funcionalidades em produção, enquanto Kanban se destaca na manutenção e correções de sistemas já em produção.
+
+O instrutor também recapitula os principais tópicos estudados: o Proto-Kanban como forma evolucionária de começar, a gestão visual com quadros físicos e eletrônicos, a análise do sistema Kanban e como ele deve evoluir para representar o processo de trabalho da equipe.
+
+Ele reforça conceitos práticos como a criação de raias de urgentes (com moderação), a importância de ter políticas explícitas sobre o processo, e o trabalho em andamento (WIP). Destaca também que reduzir WIP não significa deixar de atender o cliente.
+
+Por fim, Roberto enfatiza que métricas são fundamentais: "não é possível evoluir algo que não podemos medir". Ele convida os alunos a avaliar o curso e sugere continuar aprendendo no próximo treinamento sobre Kanban e Métricas.

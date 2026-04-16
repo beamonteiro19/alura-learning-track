@@ -1,0 +1,11 @@
+A aula aborda como estruturar e utilizar cartões em um quadro Kanban físico. A Léia Líder, pensando na implementação do Kanban, reflete sobre quais informações colocar nos cartões e como organizá-los.
+
+A aula apresenta três possibilidades de cartões:
+
+A primeira opção inclui: número da tarefa (id), descrição da tarefa, etiqueta indicando quem solicitou, quem vai atender e uma sinalização do tamanho da tarefa no canto inferior esquerdo.
+
+A segunda opção é um cartão maior e pautado, com informações adicionais como a equipe solicitante e datas importantes (quando foi solicitado, quando iniciou, quando finalizou), que serão úteis para métricas posteriores.
+
+A terceira opção, que é a sugestão da Léia Líder para começar, é mais simples: nome do solicitante no canto superior esquerdo, data de solicitação no canto direito, a descrição da tarefa e uma classificação (como "melhoria" ou "bug").
+
+Um ponto importante é que os cartões ganham detalhes conforme avançam no quadro. Quando entram na coluna "doing", podem receber informações adicionais. A aula menciona a possibilidade de usar cartões menores em azul para detalhar tarefas, mas alerta que isso pode gerar complexidade desnecessária na gestão do quadro.

@@ -1,0 +1,13 @@
+A aula apresenta o estudo de caso que será usado ao longo do treinamento. Trata-se da história da Léia Líder, coordenadora de equipe de sistemas na Bytebank, uma fintech. Ela trabalha em um squad que faz manutenção de um sistema de concessão de crédito e está considerando propor uma mudança do método Scrum, que usam atualmente, para o Kanban.
+
+Os personagens principais são:
+
+Léia Líder: coordenadora do squad, atua como Scrum Master, acredita que a produtividade baixa não é culpa do time, mas da forma como estão usando o Scrum. Já usou Kanban antes e acha mais adequado para manutenção de sistemas.
+
+Mana Ger: gerente de desenvolvimento e chefe da Léia. Não conhece Kanban, não vê muita importância em agilidade e tem dúvidas sobre fazer mudanças no processo.
+
+Deive Loper: desenvolvedor full stack, gostou do Scrum, mas está disposto a testar o Kanban. Conhece o conceito, mas não os detalhes.
+
+Leo Rico: coordenador de equipe de negócio, atua como Product Owner, mas não está confortável no papel e preferia o jeito anterior de trabalhar.
+
+O cenário atual mostra um squad com entregas irregulares, satisfação baixa da equipe, mudanças frequentes de prioridades e papéis dinâmicos. A proposta é analisar se a mudança para Kanban seria benéfica.

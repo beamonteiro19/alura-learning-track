@@ -1,0 +1,27 @@
+A aula aborda os componentes visuais do Kanban, especificamente a escolha entre quadro físico e eletrônico.
+
+Estrutura do quadro Kanban:
+O quadro apresentado possui as colunas: Backlog, Fazendo (Doing), Test e Done. Essa estrutura difere do Scrum tradicional, pois coloca todo o trabalho visível no quadro, incluindo a coluna de testes, que é importante para o processo de manutenção de sistemas.
+
+Vantagens do quadro físico:
+
+Facilita o início do uso, sem necessidade de aprender uma ferramenta
+Está sempre visível, não precisa abrir nada para ver
+Possibilita maior interação entre a equipe
+Permite maleabilidade no uso, movimentando cartões livremente
+Desafios do quadro físico:
+
+Dificulta o detalhamento das informações
+Impede acesso remoto para quem não está no mesmo local
+Pode haver problemas de legibilidade dos cartões
+Vantagens do quadro eletrônico:
+
+Facilita o detalhamento das informações
+Permite acesso remoto
+Oferece melhor organização dos dados
+Desafios do quadro eletrônico:
+
+Depende de abrir a ferramenta para visualizar
+Pode exigir treinamento
+Gera necessidade de adaptação ao método da ferramenta
+No caso da Léia Líder, a escolha foi pelo quadro físico porque a equipe está no mesmo local e ela quer manter a gestão visual sempre disponível.

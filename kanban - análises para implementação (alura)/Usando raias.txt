@@ -1,0 +1,7 @@
+A aula aborda o conceito de raias no Kanban, com o importante aviso: use com moderação. Uma raia é um trilho separado no quadro Kanban destinado a itens urgentes, criando essencialmente um backlog dividido entre urgentes e não-urgentes.
+
+O problema central apresentado é que quando tudo vira prioridade, nada é prioridade. A aula ilustra isso através do exemplo do Léo Rico, que inicialmente concorda em criar uma raia para itens urgentes com prioridade sobre os demais. Porém, depois ele decide que todos os itens de manutenção devem ser marcados como urgentes, o que quebra completamente o equilíbrio do sistema Kanban.
+
+A razão pela qual isso é problemático está na natureza do sistema Kanban: ele funciona como um gerenciador de filas. Quando você cria uma raia de urgentes, está criando uma nova fila prioritária. Se todos os itens entram nessa fila, o sistema perde sua efetividade.
+
+A solução proposta é criar uma política explícita, ou seja, escrever regras claras e detalhadas sobre como a raia de urgentes funciona. Isso garante que todos entendam e apliquem corretamente o sistema, mantendo o equilíbrio necessário para que o Kanban funcione adequadamente.
