@@ -1,0 +1,15 @@
+A Sprint Planning é o primeiro evento do fluxo de trabalho do Scrum, onde o time se reúne para planejar o trabalho que será realizado na Sprint que vai começar. Assim como você planeja uma viagem antes de sair de casa, um time de desenvolvimento precisa planejar antes de começar a construir algo.
+
+O propósito principal é definir o que será entregue (objetivo da Sprint) e como será entregue (plano de trabalho).
+
+A Sprint Planning acontece em dois momentos: primeiro, a equipe discute e define o objetivo da Sprint e as principais atividades necessárias. Depois, o time detalha um plano de ação, desdobrando as atividades em pequenas tarefas, indicando responsáveis e prazos.
+
+Para realizar uma Sprint Planning, você deve seguir estas etapas:
+
+Definir o time box (duração do evento, que varia conforme a duração da Sprint)
+Preparação (o Product Owner chega com o Product Backlog em mãos)
+Objetivo (apresentação do que deve ser entregue e discussão sobre sua importância)
+Sprint Backlog (seleção dos itens do Product Backlog que serão trabalhados)
+Meta da Sprint (declaração objetiva do que deve ser atingido)
+Plano de ação (detalhamento de tarefas, responsabilidades e prazos)
+Ao final, todo o time deve estar comprometido com o objetivo e com o plano de ação, sabendo exatamente qual trabalho deve executar e como fazê-lo.

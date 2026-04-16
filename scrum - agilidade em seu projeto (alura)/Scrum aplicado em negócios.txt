@@ -1,0 +1,9 @@
+A aula começa explicando por que a agilidade é tão importante nos negócios atuais. As empresas que demoram para entregar resultados correm o risco de ficar atrás dos concorrentes e perder oportunidades de inovação. O Scrum surge como uma solução para isso, permitindo que qualquer processo de trabalho flua melhor, não apenas em empresas de tecnologia, mas em diferentes tipos de negócio.
+
+Um ponto central da aula é entender quando utilizar o Scrum. Para isso, você precisa conhecer a principal diferença entre o Scrum e outras ferramentas de gerenciamento: ele revolucionou a forma de trabalhar ao quebrar o paradigma do modelo Cascata (Waterfall), que segue um fluxo sequencial e rígido de fases.
+
+O Scrum, por sua vez, funciona de forma iterativa e ágil, com ciclos curtos que se repetem até a entrega do produto. Isso permite validar a solução durante o desenvolvimento, conversando com o cliente e eliminando tudo aquilo que não agrega valor, evitando desperdícios.
+
+A aula também lista os principais benefícios do Scrum: agilidade, colaboração, melhor gestão de equipes, menor desperdício de recursos, identificação de gargalos e aumento da motivação do time.
+
+Por fim, você aprendeu que o Scrum é mais indicado para projetos flexíveis que podem ser repensados ao longo do processo, como desenvolvimento de produtos digitais ou físicos e serviços. Ele também pode ser aplicado em planejamento de conteúdo, processos de venda e criação de marcas.

@@ -1,0 +1,21 @@
+A aula apresenta o Scrum como uma ferramenta flexível para gerenciar projetos de forma ágil. Porém, para funcionar corretamente, é essencial seguir sua estrutura e delegar funções apropriadamente.
+
+O Scrum é estruturado em torno de três elementos principais:
+
+Valores - Guiam as decisões ao longo do projeto.
+
+Funções - Definem quem desempenha cada papel no processo.
+
+Interações - Garantem que o time trabalhe junto para entregar com qualidade e rapidez.
+
+Os componentes-chave do Scrum são:
+
+Papéis: Scrum Master, Product Owner e Development Team.
+
+Artefatos: Product Backlog, Sprint Backlog e Incrementos (informações essenciais que orientam o trabalho).
+
+Eventos: Sprint Planning, Sprint, Daily Scrum, Sprint Review e Sprint Retrospective (encontros fixos para inspeção e alinhamento).
+
+O processo do Scrum funciona em ciclos contínuos. Começa com o Product Owner criando o Product Backlog com as necessidades do cliente. Depois, o time se reúne na Sprint Planning para planejar o trabalho. Durante a Sprint, o time desenvolve a solução com alinhamentos diários (Daily Scrum). Ao final, apresentam o incremento na Sprint Review e avaliam o processo na Sprint Retrospective. Esse ciclo se repete até a entrega final.
+
+O resultado é um produto mais assertivo, desenvolvido e avaliado simultaneamente.

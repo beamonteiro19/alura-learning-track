@@ -1,0 +1,13 @@
+A aula aborda dois eventos essenciais que finalizam uma sprint no Scrum: a Sprint Review e a Sprint Retrospective. Embora sejam frequentemente confundidas, são eventos distintos com objetivos diferentes.
+
+Sprint Review é a reunião onde o time Scrum apresenta o incremento (produto entregue) aos stakeholders. Seu objetivo principal é obter feedback sobre o que foi entregue. Nela, o time apresenta as funcionalidades desenvolvidas e quais objetivos da sprint foram alcançados. A partir dos feedbacks e sugestões dos stakeholders, o Product Backlog é atualizado para as próximas sprints. A duração típica é de 4 horas para sprints de um mês.
+
+Sprint Retrospective é a reunião interna do time Scrum para avaliar o processo de trabalho. O objetivo é identificar o que funcionou bem, o que não funcionou e quais melhorias podem ser implementadas. O time analisa a dinâmica interna, comunicação e obstáculos encontrados. Como resultado, gera-se uma lista de ações para melhorar o processo nas próximas sprints. Dura até 3 horas para sprints de um mês.
+
+Principais diferenças:
+
+Objetivos: Review foca no produto; Retrospective foca no processo
+Participantes: Review inclui stakeholders; Retrospective é apenas do time Scrum
+Resultado: Review gera feedback; Retrospective gera um plano de ação
+Ordem: Review acontece primeiro, depois a Retrospective
+Ambos os eventos são fundamentais para alcançar a melhoria contínua do produto e do processo.

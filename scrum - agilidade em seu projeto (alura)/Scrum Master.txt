@@ -1,0 +1,9 @@
+A aula usa a analogia de uma orquestra de música clássica para explicar o papel do Scrum Master. Assim como um maestro coordena os músicos para garantir harmonia, o Scrum Master coordena a equipe Scrum para garantir que todos trabalhem de forma colaborativa e eficiente.
+
+O Scrum Master é responsável por garantir que a equipe e a organização entendam tanto a teoria quanto a prática do Scrum. A teoria envolve os valores e pilares do Scrum, enquanto a prática abrange os eventos, artefatos e processos do framework.
+
+Um ponto importante é que o Scrum Master não atua como um fiscal, nem substitui os membros da equipe. Pelo contrário, seu objetivo é se tornar menos necessário ao longo do projeto, aumentando a autonomia do time.
+
+Para exercer bem essa função, o Scrum Master precisa de três coisas: conhecimento técnico sobre Scrum, habilidades comportamentais e capacidade de lidar com pessoas. Isso permite identificar problemas, facilitar comunicação e intervir quando necessário.
+
+As principais responsabilidades do Scrum Master são: garantir os valores e práticas do Scrum, remover barreiras, dar feedbacks, garantir a produtividade do time e organizar os eventos Scrum. Importante ressaltar que o Scrum Master orienta e facilita, mas não toma decisões, que é responsabilidade do Product Owner.

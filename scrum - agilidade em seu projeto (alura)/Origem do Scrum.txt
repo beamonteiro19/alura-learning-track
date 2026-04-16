@@ -1,0 +1,9 @@
+A aula começa contextualizando por que o Scrum surgiu: nas últimas décadas, as empresas enfrentaram mudanças rápidas e inovações tecnológicas que exigiram formas diferentes e mais ágeis de trabalhar.
+
+O Scrum é um framework para gerenciar projetos de forma ágil, muito usado em desenvolvimento de software, mas aplicável em diversos contextos de negócio. Ele permite que equipes trabalhem juntas com maior eficiência, transparência e capacidade de se adaptar às mudanças. O processo envolve planejamento, execução, inspeção e adaptações, sempre eliminando o que não agrega valor.
+
+Quanto à origem, o conceito não nasceu na tecnologia. Foi criado por dois pesquisadores japoneses, Ikujiro Nonaka e Hirotaka Takeuchi, na década de 1990. Eles observaram que equipes pequenas, multidisciplinares e bem coordenadas obtinham melhores resultados. Associaram essa eficácia à formação "scrum" do Rugby, onde todo o time atua junto, coordenado e com um objetivo comum. Nesse esporte, o sucesso ou fracasso é coletivo.
+
+Esse conceito foi adaptado para a tecnologia nos anos 1990 por desenvolvedores de software americanos como Jeff Sutherland e Ken Schwaber, que documentaram e apresentaram o processo em uma conferência.
+
+A aula também menciona que o Scrum evoluiu ao longo dos anos e que existe um guia oficial, o Scrum Guide, criado pelos fundadores para orientar sua essência, valores e práticas.
