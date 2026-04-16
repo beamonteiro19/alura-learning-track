@@ -1,0 +1,21 @@
+A aula começa explicando que, assim como outras profissões têm seus pilares e valores orientadores, o Scrum também possui diretrizes fundamentais. Um dos maiores desafios na aplicação do Scrum é a mudança de mentalidade que ele exige, por isso é importante entender o motivo por trás de cada prática antes de implementá-la.
+
+Os 3 Pilares do Scrum são:
+
+Transparência: todas as informações relevantes do projeto devem estar acessíveis a todos os profissionais envolvidos. Isso ocorre principalmente através da comunicação, em reuniões e apresentações de resultados.
+
+Inspeção: questões relacionadas ao projeto devem ser verificadas periodicamente para identificar e solucionar problemas a tempo. A reunião de retrospectiva é um exemplo prático disso.
+
+Adaptação: está relacionada à inspeção. Quando o time identifica pontos de melhoria, adaptações são aplicadas tanto no processo de trabalho quanto na solução sendo desenvolvida.
+
+Os 5 Valores do Scrum são:
+
+Compromisso: cada membro deve se comprometer a seguir as regras do framework e atender aos objetivos planejados, além de melhorar continuamente seu próprio processo.
+
+Foco: trabalhar em pequenos ciclos, concentrando-se em uma tarefa por vez, aumenta a produtividade e a qualidade dos resultados.
+
+Abertura: estar aberto a novos aprendizados, feedbacks e mudanças é essencial para o trabalho colaborativo.
+
+Respeito: considerar e respeitar as diferentes percepções e opiniões dos membros do time.
+
+Coragem: aceitar desafios, expor problemas quando necessário e aprender com os erros para evoluir.

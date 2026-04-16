@@ -1,0 +1,9 @@
+A aula aborda como montar e gerenciar uma equipe Scrum de forma eficiente, focando sempre nas pessoas envolvidas, pois são elas que fazem o framework funcionar.
+
+Primeiro, a aula apresenta as principais falhas que ocorrem quando o gerenciamento não é adequado: baixo comprometimento dos profissionais, atrasos no cronograma, falta de clareza nas prioridades e desperdício de tempo e recursos.
+
+Para gerenciar bem um time Scrum, é essencial deixar claro os propósitos e objetivos do projeto, definir papéis e responsabilidades de forma estratégica e manter uma boa comunicação entre todos.
+
+Na montagem do time, você deve escolher membros que formem uma equipe enxuta, multifuncional, colaborativa e comprometida. Depois, é necessário definir os papéis: um Product Owner com conhecimento profundo do negócio, um Scrum Master com perfil comunicativo e gerencial, e o Development Team com habilidades relevantes para a solução.
+
+Por fim, a aula destaca sete características essenciais que o time deve desenvolver: autonomia, priorização, colaboração, transparência, adaptabilidade, comunicação e orientação a resultados. Todas essas características devem ser constantemente incentivadas pela liderança para garantir o sucesso do projeto.

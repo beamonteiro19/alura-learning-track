@@ -1,0 +1,9 @@
+A aula apresenta o papel do Product Owner (PO), ou dono do produto, como um dos principais papéis do Scrum. Para facilitar o entendimento, a instrutora usa a analogia de um restaurante, onde o Product Owner funciona como a pessoa atendente que recebe os pedidos dos clientes, anota suas necessidades e as transmite à equipe responsável.
+
+No contexto do Scrum, o Product Owner é responsável por compreender as necessidades dos clientes e materializá-las no projeto. Essa pessoa atua como porta-voz do cliente junto à equipe de desenvolvimento e à empresa, conciliando os interesses dos usuários com a capacidade de desenvolvimento da equipe.
+
+Um ponto importante é que o Product Owner é um indivíduo, não uma equipe, mas pode representar as necessidades de diversos stakeholders (partes interessadas). Por isso, essa pessoa deve ter amplo conhecimento sobre negócios, tanto do lado do cliente quanto da empresa.
+
+A aula também destaca que o Product Owner não deve ser a única ligação entre cliente, empresa e equipe de desenvolvimento. É essencial que convide regularmente membros do time para participar de reuniões com o cliente, garantindo que todos entendam as necessidades reais e criem soluções mais alinhadas.
+
+As principais responsabilidades do Product Owner são: definir requisitos do produto, alinhar as entregas do time, gerenciar e atualizar o product backlog, e iniciar ou cancelar sprints. Embora possa delegar tarefas, o Product Owner permanece responsável pelo trabalho realizado.

@@ -1,0 +1,19 @@
+A aula aborda o papel essencial do time de pessoas desenvolvedoras dentro do Scrum. O Development Team é responsável por criar a solução do projeto, sempre orientado pelo Product Owner.
+
+Características principais do Development Team:
+
+O time deve ser composto por pessoas com clareza sobre suas funções específicas e compreensão das funções dos colegas. A alocação de tarefas é baseada nas habilidades e afinidades de cada membro, sem regras fixas.
+
+Habilidades desejáveis:
+
+As pessoas desenvolvedoras precisam ser proativas, colaborativas e capazes de se autogerenciar. A colaboração é fundamental, especialmente nas reuniões diárias (Daily Scrum) e outras ocasiões de projeto.
+
+Responsabilidades principais:
+
+O Development Team deve elaborar um plano para cada sprint, determinar tecnicamente o que será entregue, coordenar e executar seu próprio trabalho, garantir a melhoria contínua do produto e informar impedimentos de forma transparente.
+
+Tamanho e objetivo:
+
+Um Development Team geralmente tem cerca de 10 membros, embora isso possa variar. O importante é manter um tamanho que facilite a comunicação e colaboração eficiente.
+
+Essencialmente, o Development Team transforma as prioridades do Product Owner em incrementos de produto a cada sprint, sempre buscando resolver problemas reais dos usuários e clientes.

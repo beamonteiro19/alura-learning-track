@@ -1,0 +1,17 @@
+Uma Sprint é um evento com duração fixa, normalmente entre 2 e 4 semanas. É um pequeno ciclo de trabalho onde o time de desenvolvimento executa tarefas de forma organizada e focada, sempre seguindo o Sprint Backlog e o plano de ação detalhado.
+
+Incremento do Produto
+
+O objetivo principal da Sprint é entregar uma parte do produto que seja potencialmente utilizável e de alta qualidade. Essas pequenas partes entregues são chamadas de incremento do produto. A vantagem dessa abordagem é que o Product Owner e os usuários podem avaliar e dar feedback constantemente, permitindo melhorias contínuas e reduzindo riscos no lançamento final.
+
+Definição de Pronto
+
+Para saber se um incremento está pronto para ser entregue, o time estabelece critérios claros e objetivos chamados de definição de pronto. Esses critérios podem incluir: funcionalidades implementadas e testadas, usabilidade validada e aprovação do Product Owner. Essa definição garante a qualidade do que será apresentado.
+
+Daily Scrum
+
+Durante a Sprint, o time se reúne diariamente por 15 minutos na Daily Scrum. Esse momento é essencial para compartilhar progresso, identificar impedimentos, remover barreiras e fortalecer o trabalho em equipe, evitando atrasos.
+
+Próximos Passos
+
+Ao final de cada Sprint, ocorrem dois eventos importantes: a Sprint Review e a Sprint Retrospective, que serão abordados nas próximas aulas.

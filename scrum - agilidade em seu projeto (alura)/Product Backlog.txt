@@ -1,0 +1,11 @@
+O Product Backlog é o artefato fundamental do Scrum que marca o início de todo o processo de trabalho. Ele funciona como uma lista contendo todas as funcionalidades, necessidades, desafios e informações essenciais para iniciar um projeto.
+
+Um produto sempre deve resolver um problema ou atender uma demanda, gerando valor para uma pessoa usuária ou clientela bem definida. Importante lembrar que produtos podem ser tangíveis (que tocamos, como roupas ou alimentos) ou intangíveis (como aplicativos, serviços ou experiências).
+
+O conteúdo do Product Backlog varia conforme o contexto do projeto, mas geralmente inclui: necessidades e desejos dos usuários, objetivos do negócio, limitações do projeto, recursos e funcionalidades, melhorias e correções, além de detalhes específicos da solução.
+
+A meta do produto é o objetivo geral que aquele produto deve cumprir. Ela vem do Product Owner, que a define através de pesquisas de mercado, conversas com stakeholders e usuários, e depois a comunica ao time Scrum.
+
+Para criar um Product Backlog eficiente, você deve: focar na pessoa usuária, priorizar os itens do backlog, atualizar regularmente, manter clareza e objetividade, incluir o time de desenvolvimento na elaboração e revisar o backlog constantemente durante o projeto.
+
+O Product Backlog é mantido e priorizado pelo Product Owner, garantindo que toda a equipe trabalhe alinhada e comprometida com um objetivo em comum.s
