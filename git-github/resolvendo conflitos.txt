@@ -1,0 +1,25 @@
+O que são conflitos?
+Conflitos ocorrem quando duas pessoas editam o mesmo trecho de código de formas diferentes. É como tentar encaixar peças diferentes do quebra-cabeça no mesmo lugar!
+
+A Ferramenta: Merge Editor
+O Visual Studio Code oferece o Merge Editor, uma ferramenta visual que facilita a resolução de conflitos. Quando você tenta fazer um git push e há conflito, basta clicar em "Resolve in Merge Editor".
+
+A Tela do Merge Editor (3 partes)
+Campo	O que é
+Incoming (remoto)	Modificações que vêm do repositório remoto (GitHub, por exemplo)
+Current (local)	Suas modificações locais (na sua máquina)
+Result	O resultado final após resolver o conflito
+Opções de Resolução
+Você pode escolher:
+
+Accept Incoming - aceitar apenas o código remoto
+Accept Current - aceitar apenas o código local
+Accept Combination - combinar ambos (remoto + local ou local + remoto)
+Ignore - ignorar as modificações
+Próximos Passos
+Após escolher a resolução:
+
+Salvar o arquivo
+Clicar em "Complete Merge"
+Fazer um commit
+Fazer um push

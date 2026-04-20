@@ -1,0 +1,22 @@
+Os Dois Conceitos
+Git e GitHub são frequentemente confundidos, mas são coisas diferentes:
+
+🖥️ Git
+É uma ferramenta de controle de versão
+Funciona localmente no seu computador
+Permite salvar versões do seu código (como uma "máquina do tempo")
+Você usa via linha de comando (Terminal)
+Funciona sem internet
+☁️ GitHub
+É uma plataforma de hospedagem na nuvem
+Funciona remotamente (na internet)
+Permite compartilhar e colaborar com outros programadores
+Tem uma interface gráfica amigável no navegador
+Depende do Git para funcionar
+A Analogia Prática
+Pense assim:
+
+Git = Microsoft Word (onde você edita localmente)
+GitHub = Google Drive (onde você compartilha e colabora)
+Ponto-Chave 🎯
+Você não precisa do GitHub para usar Git, mas o GitHub torna o Git muito mais poderoso para trabalho em equipe e construir seu portfólio!

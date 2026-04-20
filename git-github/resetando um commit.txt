@@ -1,0 +1,14 @@
+A aula aborda o comando git reset, que serve para apagar um commit do histórico quando ele não faz mais sentido no projeto. Diferente do git revert (visto no vídeo anterior), que cria um novo commit desfazendo as mudanças, o reset remove o commit completamente.
+
+Os instrutores explicam situações práticas onde isso é útil, como quando uma funcionalidade é cancelada ou quando outra pessoa já completou uma tarefa que você estava fazendo.
+
+O comando utilizado é:
+
+css
+Copiar código
+git reset --hard [ID do commit]
+Um detalhe importante: você não passa o ID do commit que quer apagar, mas sim o ID do commit anterior, aquele para o qual você quer retornar. O parâmetro --hard garante que tanto o commit quanto as mudanças no código sejam removidos.
+
+A aula também reforça uma recomendação crucial: o reset deve ser usado apenas em commits que ainda estão no repositório local. Após fazer push para o GitHub, não é recomendado apagar commits, pois isso pode causar confusão entre colaboradores.
+
+Por fim, os instrutores mencionam que há uma terceira opção além de reverter ou apagar: alterar um commit, o que será explorado nos próximos vídeos.

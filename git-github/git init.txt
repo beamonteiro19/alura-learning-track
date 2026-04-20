@@ -1,0 +1,15 @@
+O comando git init transforma um diretório comum em um repositório Git, permitindo que você comece a controlar as versões do seu projeto.
+
+Como usar?
+Abra o terminal dentro do diretório do seu projeto
+Execute: git init
+Pronto! Uma pasta .git será criada automaticamente
+Pontos importantes:
+✅ Execute apenas uma vez por projeto
+✅ Execute dentro do diretório do projeto (não em outro lugar)
+✅ Após executar, você já pode começar a adicionar arquivos e fazer commits
+Cuidados:
+⚠️ Se você executar git init novamente em um repositório já existente, o Git apenas reinicializará o repositório, mas não apagará seu histórico de mudanças.
+
+Dica de segurança:
+Antes de executar git init, rode git status. Se aparecer a mensagem fatal: not a git repository, significa que o diretório ainda não é um repositório Git e você pode prosseguir com segurança!

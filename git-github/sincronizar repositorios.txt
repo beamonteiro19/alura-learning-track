@@ -1,0 +1,15 @@
+A aula aborda como conectar um repositório local (no seu computador) com um repositório remoto (no GitHub), sincronizando seus projetos.
+
+Os principais passos executados foram:
+
+Adicionar arquivos e fazer commit: Usando git add . para adicionar todos os arquivos do projeto de uma vez, e depois git commit -m "projeto inicial" para registrar essas mudanças.
+
+Configurar identidade no Git: Como o Git não conhecia o usuário, foi necessário configurar o e-mail e nome com os comandos git config --global user.email e git config --global user.name.
+
+Vincular repositórios: O comando git remote add origin conecta o repositório local ao repositório remoto no GitHub usando o protocolo SSH.
+
+Gerar chave SSH: Para garantir segurança, foi necessário gerar uma chave SSH no computador usando ssh-keygen e adicioná-la nas configurações do GitHub.
+
+Sincronizar com GitHub: Após toda essa configuração, o comando git push -u origin main enviou os arquivos e commits para o repositório remoto, finalizando a sincronização.
+
+ssh-keygen -t ed25519 -C "seu@email.com"

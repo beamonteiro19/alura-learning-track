@@ -1,0 +1,19 @@
+Principais Pontos:
+1. Simplicidade e Objetividade
+
+As mensagens devem ser claras e diretas, facilitando o entendimento de outras pessoas (e de você mesmo no futuro).
+2. Limite de Caracteres
+
+A primeira linha deve ter, no máximo, 72 caracteres.
+Se precisar de mais detalhes, pule uma linha e adicione a descrição completa.
+3. Verbo no Infinitivo
+
+Comece a mensagem com um verbo no infinitivo que descreva a ação realizada.
+Exemplos: "Adicionar", "Corrigir", "Atualizar"
+Exemplo completo: "Atualizar texto do título da página"
+4. Evite Detalhes Técnicos Complexos
+
+Mantenha a mensagem acessível e compreensível.
+Detalhes técnicos devem ficar em comentários de código ou documentação.
+
+A mensagem de commit é um registro histórico do seu projeto. Quem ler essa mensagem pode não ter o contexto original, então clareza e descrição adequada são essenciais!
