@@ -1,0 +1,7 @@
+O comando utilizado é o git commit --amend -m, seguido pela mensagem corrigida. Esse parâmetro --amend indica ao Git que você não quer criar um novo commit, mas sim modificar o anterior.
+
+A aula apresentou um exemplo prático: a Gabi havia cometido um erro ao digitar a mensagem do commit, escrevendo "avidinhar" em vez de "adivinhar". Com o comando --amend, foi possível corrigir apenas a mensagem sem precisar apagar e recriar o commit.
+
+Rodrigo também mencionou que essa situação é comum em outros cenários, como quando você esquece de adicionar um arquivo antes de fazer o commit. Nesses casos, você pode usar o --amend para adicionar o arquivo faltante e refazer o commit com as mudanças completas.
+
+Portanto, o --amend é uma ferramenta útil para corrigir pequenos erros no último commit sem deixar rastros de commits desnecessários no histórico.

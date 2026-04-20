@@ -1,0 +1,34 @@
+A aula aborda o comando git remote, que é essencial para conectar seu repositório local (no seu computador) com um repositório remoto (como no GitHub).
+
+Os 5 principais usos do comando:
+Adicionar um repositório remoto
+csharp
+Copiar código
+git remote add apelido url
+Cria a conexão entre seu projeto local e um servidor remoto.
+
+Listar repositórios remotos
+undefined
+Copiar código
+git remote -v
+Mostra todos os repositórios remotos vinculados ao seu projeto com suas URLs.
+
+Remover um repositório remoto
+csharp
+Copiar código
+git remote remove apelido
+Desvincula um repositório remoto que você não precisa mais.
+
+Alterar a URL de um repositório remoto
+cpp
+Copiar código
+git remote set-url apelido nova_url
+Atualiza a URL quando ela muda ou foi copiada incorretamente.
+
+Renomear um repositório remoto
+lua
+Copiar código
+git remote rename apelido novo_apelido
+Muda o nome (apelido) do repositório remoto.
+
+Em resumo: O git remote é fundamental para gerenciar as conexões entre seu repositório local e os remotos, permitindo colaboração e backup do seu código! 

@@ -1,0 +1,8 @@
+A criação de conta no GitHub e a configuração de repositórios para enviar projetos
+Os comandos essenciais do Git: git status, git add, git commit, git push e git pull, que garantem o sincronismo entre os membros do time
+O uso do Git diretamente no Visual Studio Code
+Como identificar e resolver conflitos quando duas ou mais pessoas alteram o mesmo arquivo
+Recursos para gerenciar commits: apagar, reverter e alterar mensagens
+A importância do arquivo README como documentação do repositório
+O uso do .gitignore para excluir arquivos e diretórios temporários do controle de versão
+O Gist como ferramenta para compartilhar trechos de código
