@@ -1,0 +1,169 @@
+:root {
+  /* aqui eu crio as variaveis de estilo */
+  --branco-principal: #ffffff;
+  --cinza-secundario: #c0c0c0;
+  --btn-azul: #167bf7;
+  --cor-de-fundo: #00030c;
+  font-family: "Inter";
+}
+
+body {
+  background-color: var(--cor-de-fundo);
+  color: var(--branco-principal);
+  font-family: var(--fonte-principal);
+  font-size: 16px;
+  font-weight: 400;
+}
+
+* {
+  /* o seletor * pega todos  os elementos html para estilizar */
+  margin: 0;
+  padding: 0;
+}
+
+.principal {
+  background-image: url(img/Background.png);
+  background-repeat: no-repeat;
+  background-size: contain; /*dai ele pega a altura do container para preencher */
+  --fonte-principal: "Inter";
+  align-items: center;
+}
+
+.container {
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.container__btn {
+  background-color: var(--btn-azul);
+  border-radius: 5px;
+  padding: 1em; /* em pega o tamanho da fonte, exemplo, se a fonte é 16px,  padding tbm é */
+  color: var(--branco-principal);
+  display: block;
+  text-decoration: none;
+  margin-bottom: 1em;
+}
+
+.container__btn:hover{
+  background-color: var(--branco-principal);
+  color: var(--btn-azul);
+
+}
+
+.container__btn:active{
+  background-color: var(--cinza-secundario);
+  color: var(--btn-azul);
+
+}
+
+.container__btn_secundario {
+  background-color: transparent;
+  border-radius: 5px;
+  border: 2px solid var(--branco-principal);
+  padding: 1em; /* em pega o tamanho da fonte, exemplo, se a fonte é 16px,  padding tbm é */
+  color: var(--branco-principal);
+  display: block;
+  text-decoration: none;
+}
+
+.container__btn_secundario:hover{
+  border: 2px solid var(--btn-azul);
+}
+
+.container__aviso {
+  font-size: 12px;
+  color: var(--cinza-secundario);
+}
+
+.container__titulo {
+  font-size: 28px;
+  font-weight: 700;
+}
+.container__img {
+  margin: 1em 0 2em 0; /* qnd se coloca 4 valores, funciona como um relogio em sentido horario. em cima, direita, embaixo, esquerda */
+}
+
+.container__caixa {
+  margin: 0 6em; /*o 0 representa top e bottom, e o 6em representa direita e esquerda */
+}
+
+.secundario__img {
+  width: 80%;
+}
+
+.secundario {
+  margin: 0 10em;
+  align-items: center;
+}
+
+.descricao__titulo {
+  font-weight: 700;
+  font-size: 48px;
+  color: var(--branco-principal);
+  margin-bottom: 0.1rem;
+}
+
+.descricao__texto {
+  color: var(--cinza-secundario);
+}
+
+.secundario__btn {
+  display: inline-block; /*o inline trnaformou o elemento em linha e o block faz a quebra de linha */
+  margin-top: 1em;
+}
+
+.container__descricao {
+  padding: 2em;
+}
+.dispositivos_titulo {
+  font-size: 48px;
+  color: var(--branco-principal);
+}
+
+.dispositivos__lista {
+  display: flex; /* a direção padrao do flex é linha ou row (horizontal) */
+  justify-content: center;
+  list-style-type: none;
+  margin: 5em 0; /* top, bottom com margem e laterais sem */
+}
+
+.dispositivos {
+  text-align: center;
+}
+
+.lista__item {
+  font-size: 32px;
+  color: var(--branco-principal);
+}
+
+.rodape {
+  margin: 3em 3em;
+  text-align: center;
+}
+
+.rodape__lista {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 1em;
+}
+
+.lista__link a {
+  text-decoration: none;
+  color: var(--branco-principal);
+  margin-left: 1em;
+}
+.rodape__texto {
+  font-size: 14px;
+  color: var(--cinza-secundario);
+  margin: 1em 0;
+  font-size: 14px;
+}
+.lista__link a:hover{
+    color: var(--btn-azul);
+}
+
+.lista__link a:active{
+    color: var(--cinza-secundario);
+}
