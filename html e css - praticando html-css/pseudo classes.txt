@@ -1,0 +1,25 @@
+Pseudo-classes são propriedades adicionadas aos seletores CSS que detectam o estado de um elemento, permitindo criar experiências interativas com o usuário.
+
+Principais Pseudo-classes:
+Pseudo-classe	O que faz
+:hover	Detecta quando o mouse está sobre o elemento
+:focus	Ativada quando o elemento está em foco (clique ou teclado)
+:active	Detecta quando o elemento está sendo clicado
+:visited	Identifica links já visitados
+:link	Identifica links nunca clicados antes
+Sintaxe Correta:
+css
+Copiar código
+seletor:pseudo-classe {
+  propriedade: valor;
+}
+Exemplo Prático:
+css
+Copiar código
+.container__botao:hover {
+  background-color: blue;
+}
+Neste exemplo, o botão muda para azul quando o mouse passa sobre ele! 
+
+Curiosidade Extra:
+O :root que você aprendeu na primeira aula também é uma pseudo-classe, mas com foco em declarar variáveis CSS, não em interatividade.
