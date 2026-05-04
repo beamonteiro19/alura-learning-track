@@ -1,0 +1,15 @@
+Método GTD (Getting Things Done)
+O Método Getting Things Done (“fazendo as coisas”), criado por David Allen, é uma técnica de gestão de tempo e produtividade que ajuda a organizar e priorizar tarefas de forma eficaz. O objetivo é ter uma mente clara e um sistema confiável fora da sua cabeça para armazenar todas as suas tarefas e ideias. Vamos ver como você pode começar:
+
+Passos Básicos do GTD:
+Capturar: Anote tudo o que chama sua atenção. Não importa se é uma tarefa, uma ideia ou algo que você precisa lembrar. Use ferramentas digitais como aplicativos de notas ou um simples documento de texto para capturar essas informações.
+Esclarecer: Processar o que você capturou. Pergunte-se: "Isso requer uma ação?" Se sim, decida a próxima ação e faça-a, delegue-a ou adie-a. Se não, arquive-a, jogue fora ou coloque-a em uma lista de "algum dia/talvez".
+Organizar: Coloque tudo onde deve estar. Use pastas, listas ou aplicativos de tarefas para organizar suas ações. Por exemplo, você pode ter listas separadas para tarefas pessoais, trabalho e projetos específicos.
+Refletir: Revise regularmente seu sistema para atualizar listas e limpar tarefas concluídas. Uma revisão semanal é ideal para manter tudo em dia.
+Engajar: Com tudo organizado e priorizado, escolha suas tarefas com confiança e comece a trabalhar nelas.
+Implementando GTD com tecnologia:
+Aplicativos de Tarefas: Existem vários aplicativos projetados para o GTD, como Todoist, Trello ou Evernote. Eles permitem criar projetos, listas e definir lembretes para suas tarefas.
+
+Calendários Digitais: Use um calendário digital para agendar suas revisões semanais e bloquear tempo para tarefas específicas.
+
+O método GTD oferece abordagem estruturada para ajudá-lo a gerenciar seu tempo e tarefas de forma mais eficiente. Ao implementá-los com o auxílio da tecnologia, você pode otimizar ainda mais seu processo de organização e produtividade. Experimente essas técnicas e veja qual delas se adapta melhor ao seu estilo de vida e trabalho. Lembre-se, a chave é encontrar um sistema que funcione para você e mantê-lo consistentemente.

@@ -1,0 +1,32 @@
+Importância dos objetivos: A importância de ter objetivos claros e significativos para manter a motivação e a produtividade.
+Disciplina como chave: Como a disciplina diária é essencial para avançar em direção aos nossos objetivos, mesmo com pequenos passos.
+Autonomia na disciplina: A importância de sermos responsáveis por definir nossos próprios procedimentos e rotinas para alcançar nossos objetivos, ao invés de depender exclusivamente de métodos externos.
+Adaptação e flexibilidade: A necessidade de adaptar e ajustar nossos procedimentos conforme aprendemos o que funciona melhor para nós.
+Execução e motivação: Como a execução diária de nossas tarefas e a manutenção da disciplina aumentam nossa motivação e nos aproximam de nossos objetivos.
+Disciplina não é linear: Aprendemos que ter disciplina envolve realizar diferentes atividades, como planejar, executar e coletar dados, e não apenas repetir a mesma tarefa todos os dias.
+Ciclo da disciplina: Foi introduzido o conceito do ciclo da disciplina, que combina a metodologia do livro "Um Ano em Doze Semanas" com a filosofia do MVP (Mínimo Produto Viável) adaptada para produtividade.
+Filosofia do MVP: Entendemos como a filosofia do MVP, originalmente da tecnologia, pode ser aplicada à produtividade para melhorar continuamente através do feedback e ajustes.
+
+Adaptação do MVP para produtividade: Aprendemos como adaptar o ciclo do MVP para nossos objetivos de produtividade, começando com um objetivo específico e seguindo com planejamento, execução, medição e ajustes.
+
+Importância da prática e feedback: Foi destacada a importância de colocar objetivos em prática e compartilhá-los para receber feedback, o que permite recalibrar a rota e garantir que estamos no caminho certo.
+
+Definindo objetivos amplamente: A importância de começar com uma visão ampla dos desejos e objetivos antes de detalhá-los.
+
+Segmentação de objetivos: Como transformar grandes objetivos em metas menores e mais gerenciáveis.
+
+Metodologia um ano em doze semanas: A estratégia de dividir metas anuais em trimestres para melhor acompanhamento e realização.
+
+Planejamento semanal: A técnica de planejar ações semanais que nos aproximam dos objetivos trimestrais.
+
+Uso do notion para organização: Como utilizar a planilha do Notion para registrar progresso e organizar as metas semanais e trimestrais.
+
+Definindo metas no Notion: Aprendemos a estabelecer metas específicas para serem alcançadas em um período de 12 semanas, garantindo que sejam realistas e alcançáveis dentro desse tempo.
+
+Dividindo grandes objetivos: Vimos como dividir objetivos maiores em metas menores e mais gerenciáveis, facilitando o planejamento e a execução.
+
+Planos de ação semanais: Entendemos a importância de criar planos de ação semanais no Notion para nos aproximar das metas trimestrais, detalhando as etapas necessárias para cada semana.
+
+Tarefas diárias no Notion: Descobrimos como organizar tarefas diárias no Notion, que contribuem para o cumprimento dos planos de ação semanais e, consequentemente, para o alcance das metas.
+
+Sistema de recompensas: Aprendemos sobre um sistema de recompensas no Notion, onde tarefas, planos de ação e metas concluídas são reconhecidas com troféus de bronze, prata e ouro, respectivamente, incentivando a produtividade e o progresso.

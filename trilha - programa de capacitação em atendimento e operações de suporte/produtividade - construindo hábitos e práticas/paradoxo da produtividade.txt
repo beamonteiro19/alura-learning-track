@@ -1,0 +1,7 @@
+A aula questiona o conceito comum de produtividade, que se resume apenas a fazer mais em menos tempo. Para isso, a instrutora traz a perspectiva de Robert Solow, um economista que apontou um paradoxo interessante: apesar dos computadores estarem presentes em todos os lugares desde os anos 2000, eles não se refletem nas estatísticas de produtividade.
+
+Solow media produtividade pela produção de bens em relação às horas trabalhadas. Enquanto setores primário (agropecuária) e secundário (indústria) conseguem aumentar produtividade com tecnologia em larga escala, o setor terciário (serviços e comércio) enfrenta um desafio diferente. Nesse setor trabalham os "profissionais da informação" ou "profissionais do conhecimento", como desenvolvedores, que precisam elaborar hipóteses e soluções novas constantemente.
+
+O grande diferencial é a curva de aprendizagem. Esse conceito representa o tempo que uma pessoa leva para aprender algo e aplicá-lo consistentemente. A aula mostra que essa curva é mais significativa para profissionais do conhecimento, pois o aprendizado não é linear: começa lento, depois acelera bastante até atingir um platô.
+
+A conclusão é que não podemos pensar produtividade de forma rígida e única. É necessário respeitar os limites humanos e entender que a produtividade envolve aprendizado contínuo, especialmente para quem trabalha com conhecimento.
