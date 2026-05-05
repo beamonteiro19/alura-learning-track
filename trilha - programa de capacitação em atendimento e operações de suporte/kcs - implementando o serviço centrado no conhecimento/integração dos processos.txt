@@ -1,0 +1,7 @@
+A aula aborda como o loop de evolução funciona através da integração eficiente dos processos de resolução de problemas. Os pontos principais são:
+
+Alocação estratégica de pessoas: É importante reunir as melhores pessoas e conteúdos para resolver problemas específicos. Enquanto alguns analistas trabalham em situações críticas, outros identificam problemas mais básicos, o que aumenta a agilidade tanto na busca de soluções quanto na identificação de causas.
+
+Visibilidade e colaboração: O KCS é fundamentalmente colaborativo. As situações e resoluções devem estar sempre visíveis na base de conhecimento, usando os status apropriados (trabalho em andamento, validado ou não validado). Isso permite que pessoas de diferentes times, como desenvolvimento, produto ou controladoria, vejam essas informações e contribuam com feedbacks para melhorar a qualidade e didática do conteúdo.
+
+Integração do conhecimento: Um dos conceitos fundamentais do KCS é que a pesquisa na base de conhecimento deve ser a primeira ação de todas as pessoas, não a última. Para que isso se torne um hábito, é essencial que as pessoas tenham confiança nas informações, possam dar feedbacks, tenham visibilidade dos processos e dos canais interligados, gerando assim soluções eficazes e eficientes.

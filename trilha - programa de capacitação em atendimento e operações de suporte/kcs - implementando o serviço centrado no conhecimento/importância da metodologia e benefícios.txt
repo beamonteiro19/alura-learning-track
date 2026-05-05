@@ -1,0 +1,14 @@
+A aula aborda a importância da metodologia KCS (Knowledge-Centered Service, ou Serviço Centrado no Conhecimento) e seus benefícios para as organizações.
+
+O KCS é um tipo de gestão do conhecimento criado para manter bases de conhecimento sempre utilizáveis e atualizadas, melhorando a interação entre clientes e equipe de suporte. O conhecimento é organizado através de artigos de conhecimento, que são documentos padronizados contendo o passo a passo para resolver problemas.
+
+Os principais benefícios do KCS são:
+
+Os clientes conseguem resolver problemas por conta própria, aliviando a carga do time de suporte
+As informações são objetivas e de alta qualidade
+Permite identificar oportunidades de melhoria e lacunas no conhecimento
+Reduz custos operacionais e tempo de resolução
+Promove inovação ao oferecer uma visão geral dos problemas
+Melhora a motivação e empodera os colaboradores, já que todos são parte da solução
+Evita repetição de esforços ao centralizar tudo em um único lugar
+Em essência, o KCS transforma a forma como o conhecimento é capturado, organizado e compartilhado, beneficiando tanto a organização quanto seus clientes.

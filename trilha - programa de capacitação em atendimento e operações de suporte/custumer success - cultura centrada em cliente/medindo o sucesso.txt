@@ -1,0 +1,11 @@
+A aula aborda a importância de usar métricas para medir o sucesso dos clientes, evitando decisões baseadas apenas em "achismos" ou vieses pessoais. As métricas funcionam como um termômetro para avaliar se os clientes estão realmente tendo sucesso.
+
+Para escolher as métricas certas, você deve se fazer duas perguntas: quais dados você já tem ou consegue obter, e quais dados seriam interessantes para o negócio do cliente. É fundamental ter um olhar crítico e trabalhar em parceria com o cliente, alinhando os mesmos objetivos desde o início.
+
+A aula apresenta dois tipos de indicadores:
+
+Leading indicators (alertas de fumaça) - indicadores preditivos que mostram sinais de alerta antes de um problema se concretizar. Exemplos: Health Score, Engagement Score, feedback direto do cliente e status de adimplência.
+
+Lagging indicators (alertas de fogo) - indicadores imediatos que mostram quando o impacto negativo já ocorreu. Exemplos: CSAT, NPS, Churn Rate, Lifetime Value, taxa de renovação e expansão da base de clientes.
+
+O principal aprendizado é que, como Customer Success Manager, você precisa estar preparado para entender e trabalhar com essas métricas, pois elas são essenciais para garantir o sucesso dos seus clientes.

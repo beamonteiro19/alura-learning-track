@@ -1,0 +1,17 @@
+A aula começou com o exemplo do Sérgio no ByteBank, mostrando como a falta de padronização leva à duplicação de documentos e informações desorganizadas. O KCS resolve isso ao unificar e padronizar o conhecimento.
+
+Um ponto crucial abordado foi que não basta apenas criar artigos padronizados — é essencial medir a experiência do cliente. Se as informações estão desorganizadas ou incompreensíveis, o cliente não consegue resolver seus problemas, o que prejudica a satisfação.
+
+A aula apresentou nove áreas fundamentais para implementar ativos de conhecimento:
+
+Base de conhecimento — repositório central de artigos, FAQs e informações de resolução de problemas
+Modelos de artigos — padrões que cada empresa cria considerando seu público
+Perguntas frequentes — identificar quais dúvidas geram mais insatisfação e retrabalho
+Fluxos de trabalho de resolução — organizar os caminhos para resolver problemas conforme a área envolvida
+Métricas de desempenho — acompanhar satisfação, quantidade de artigos publicados e experiência do cliente
+Comunidade de prática — promover compartilhamento e colaboração entre colaboradores
+Ferramentas de busca — garantir que clientes encontrem informações facilmente
+Treinamento e desenvolvimento — capacitar equipes na metodologia e padrões
+Governança e políticas — estabelecer diretrizes para criar, manter e gerenciar o conhecimento
+Feedback e revisão — avaliar continuamente a implementação e a experiência tanto interna quanto externa
+Essas áreas trabalham juntas para implementar o KCS de forma assertiva.

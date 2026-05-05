@@ -1,0 +1,11 @@
+Criando e arquivando informações
+
+O foco está em manter a relevância do conhecimento na base. O exemplo do Sérgio ilustra bem isso: ele procurava um artigo que havia sido excluído e não conseguiu encontrá-lo. No KCS, o que importa não é a idade do artigo, mas sim se ele tem relevância, significado e motivo para estar ali. Se a clientela está utilizando, deve-se manter. A recomendação é fazer manutenção focada em melhorar a capacidade de encontrar as informações facilmente, em vez de simplesmente deletar conteúdo.
+
+Trabalhando com dados legados e novas informações
+
+Quando há transferência de uma ferramenta para outra ou mudança de metodologia, é importante fazer um filtro do que realmente faz sentido repassar. Informações obsoletas ou sem demanda podem ser deixadas de lado, mas aquelas que têm valor devem ser descritas e validadas antes de serem movidas para a nova base. Durante esses processos, surgem situações não mapeadas que devem ser armazenadas e analisadas posteriormente.
+
+Entendendo a licença para modificar
+
+O modelo de licenciamento define os direitos e privilégios de cada pessoa colaboradora. Pessoas com mais compreensão e habilidades têm mais privilégios, como a capacidade de editar, publicar ou tornar artigos visíveis ou invisíveis na base.

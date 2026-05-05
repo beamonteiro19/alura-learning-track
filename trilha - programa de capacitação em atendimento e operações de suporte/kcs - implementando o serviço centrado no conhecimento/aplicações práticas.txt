@@ -1,0 +1,13 @@
+A aula apresenta um caso prático do ByteBank, um banco que enfrentava problemas sérios de comunicação interna e desorganização de informações sobre políticas, taxas e serviços. Isso causava confusão, desinformação e clientes insatisfeitos.
+
+Para resolver isso, o ByteBank implementou o KCS, criando um portal online onde clientes conseguem encontrar automaticamente soluções para seus problemas, reduzindo a sobrecarga no suporte e melhorando a comunicação interna.
+
+A aula também aborda os quatro princípios fundamentais do KCS:
+
+Abundância - Todo conhecimento gerado precisa estar visível e acessível. As informações não podem ficar restritas em equipes específicas. Todas as pessoas devem conseguir acessá-las, a menos que sejam informações muito sigilosas.
+
+Criação de Valor - Quando descobrimos uma solução inovadora, devemos capturá-la, validá-la com o cliente e adicioná-la à base de conhecimento, criando valor para todos.
+
+Orientação pela Demanda - O conhecimento deve ser gerado conforme a demanda real dos clientes. Não faz sentido criar documentos sobre funcionalidades que não geram suporte. Precisamos sempre observar o que está causando trabalho e organizar as informações de acordo.
+
+Confiança - As informações na base de conhecimento precisam ser verdadeiras, validadas e funcionarem na prática. Isso gera confiança tanto para colaboradores quanto para clientes.

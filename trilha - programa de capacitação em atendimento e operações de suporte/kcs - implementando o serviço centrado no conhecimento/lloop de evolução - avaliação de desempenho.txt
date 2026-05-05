@@ -1,0 +1,13 @@
+Treinadores (Coachings): São agentes de mudança que desenvolvem competências nas equipes, trabalham com feedbacks e revisam conhecimentos relevantes, tanto na implementação da metodologia quanto em áreas onde a equipe tem dificuldades.
+
+Líderes: Têm visão completa do sistema, definem o que é sucesso para cada equipe e para a organização, refinam conteúdo conforme necessário e motivam suas equipes a aderirem à metodologia.
+
+Especialistas em domínio de conhecimento: Avaliam a qualidade do conhecimento, acompanham tendências de mercado, gerenciam problemas e estabelecem padrões de conhecimento.
+
+Trabalhadores do conhecimento: São colaboradores que usam o conhecimento no dia a dia, capturando, estruturando, reutilizando e melhorando continuamente os artigos de conhecimento.
+
+A aula também apresenta o modelo de licenciamento do KCS com três níveis:
+
+Iniciante KCS: Pessoas começando a entender a metodologia
+Contribuidor KCS: Já familiarizado, pode editar e modificar artigos
+Publicador KCS: Nível avançado com total liberdade para criar, modificar conteúdo e fornecer feedbacks

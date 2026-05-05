@@ -1,0 +1,18 @@
+Corrigir ou criar um novo artigo?
+
+Na metodologia KCS, criar ou corrigir um artigo é uma decisão importante. Artigos novos devem ser criados quando uma resolução única é necessária para um problema específico que não está na Base de Conhecimento. Deve haver um artigo por resolução e causa, embora existam exceções baseadas na experiência do ambiente. A criação de artigos evolui com o uso, podendo ser mesclados ou divididos conforme a experiência aumenta.
+
+Os artigos KCS podem oferecer várias abordagens para uma resolução, incluindo soluções temporárias e atualizações de código, com descrições claras das opções. Os artigos do "Evolve Loop" são valiosos e interconectados, guiando os usuários por etapas para a melhor solução. Artigos em andamento na Base de Conhecimento ajudam a evitar esforços duplicados e promovem a colaboração.
+
+Ao criar novos artigos, a abordagem deve ser específica para resolver o problema inicial, sem tentar cobrir todas as possibilidades. Redundâncias são aceitáveis quando se atendem a diferentes públicos ou quando capturam experiências diferentes com a mesma resolução e causa, mas devem ser mescladas com o tempo para manter a eficácia da pesquisa.
+
+Artigos duplicados
+
+Artigos duplicados são inevitáveis em práticas bem-sucedidas de gestão do conhecimento (KCS). No KCS, a duplicidade pode surgir quando diferentes pessoas descrevem um problema de forma única (artigo A) e outro respondente cria um artigo semelhante (artigo B) com base na experiência do solicitante. Com o tempo e as atualizações constantes dos artigos, eles evoluem até que ambos possam ser encontrados em uma pesquisa, momento em que devem ser mesclados.
+
+No entanto, a duplicidade também pode ocorrer devido a violações das práticas KCS, como metas de criação de artigos, falta de pesquisa prévia na Base de Conhecimento ou uma cultura que desencoraja a edição de artigos existentes. Em ambos os casos, é crucial lidar com os artigos duplicados de maneira adequada.
+
+Lidando com duplicatas: a mesclagem
+
+Lidar com duplicatas na gestão do conhecimento envolve mesclar os conteúdos do artigo mais recente no mais antigo, preservando metadados, links para incidentes originais e contagem de reutilização. Essa prática é eficaz, pois o artigo mais antigo geralmente contém informações mais ricas, simplificando o processo de mesclagem.
+

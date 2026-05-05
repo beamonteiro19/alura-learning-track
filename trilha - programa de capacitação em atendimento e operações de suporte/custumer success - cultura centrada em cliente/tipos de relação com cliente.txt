@@ -1,0 +1,7 @@
+Customer Success é a abordagem proativa e estratégica. Envolve ações contínuas ao longo do relacionamento para garantir a retenção e expansão de receitas. É baseada em análise de dados e tem visão preditiva.
+
+Customer Support é o atendimento reativo e pontual. Funciona como porta de entrada para o relacionamento, tirando dúvidas, ouvindo sugestões e resolvendo problemas. Pode ser individual (1:1) ou para múltiplos clientes (1:many).
+
+Customer Experience monitora o sentimento do cliente em todos os pontos de contato da jornada, desde a pré-venda até o pós-venda. É medida através de pesquisas como NPS e satisfação, e não é uma área específica, mas uma gestão que passa por todas as áreas da empresa.
+
+A aula também reforçou que Customer Success não é sinônimo de atendimento ao cliente. São áreas diferentes que atuam de formas distintas, mas ambas são necessárias e devem estar focadas no cliente. A tabela comparativa mostrou que enquanto Customer Success é fonte de receita e proativo, Customer Support é um centro de custos e reativo.

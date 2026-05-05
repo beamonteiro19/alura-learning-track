@@ -1,0 +1,31 @@
+Trabalhador do conhecimento: O termo "trabalhador do conhecimento" se refere a qualquer pessoa que esteja envolvida no processo de criação, compartilhamento e uso do conhecimento em uma organização. Isso pode incluir agentes de suporte, colaboradores internos, especialistas e outros indivíduos que contribuem para o acúmulo e a aplicação do conhecimento.
+
+Domínio: O domínio se refere à área de conhecimento ou expertise em que uma organização atua. Pode ser um setor específico, uma indústria, um campo de especialização, um produto ou serviço específico, entre outros. O domínio influencia o tipo de conhecimento que a organização precisa gerenciar e compartilhar. Por exemplo, em um banco, o domínio de conhecimento pode incluir temas como produtos bancários, transações, procedimentos de segurança, regulamentações financeiras, entre outros. Cada um desses tópicos representa um domínio específico no contexto bancário. Dentro do KCS, o domínio é frequentemente associado a "artigos de domínio", que são documentos detalhados que fornecem informações específicas sobre um determinado tema dentro da área de expertise da equipe de suporte.
+
+Solicitante: O solicitante é a pessoa ou entidade que faz uma pergunta ou solicita assistência. Em um contexto de suporte ao cliente, o solicitante é geralmente o cliente que precisa de ajuda para resolver um problema ou obter informações.
+Respondente: O respondente é a pessoa ou entidade que fornece uma resposta ou assistência à solicitação feita pelo solicitante. No contexto de suporte, o respondente é muitas vezes um agente de suporte ou especialista capaz de fornecer uma solução.
+
+Rede de interação: A rede de interação é o ambiente em que ocorre a troca de conhecimento entre solicitantes e respondentes. Pode incluir canais de suporte, como chats, e-mails, sistemas de tickets ou fóruns, onde as interações acontecem.
+Cliente: No contexto do KCS, o termo "cliente" refere-se ao destinatário final do suporte ou serviço. Pode ser um cliente externo que utiliza produtos ou serviços da organização, ou um cliente interno, como um colaborador que busca assistência.
+
+Sistema de registro: O sistema de registro é a plataforma ou ferramenta usada para registrar e rastrear as interações entre solicitantes e respondentes. Pode ser um sistema de gerenciamento de tickets, um sistema de suporte online ou qualquer outra tecnologia que ajude a acompanhar as solicitações e respostas.
+
+Base de conhecimento: Uma coleção centralizada de informações, documentos, artigos, FAQs (perguntas frequentes) e recursos relacionados ao suporte. Essa Base de Conhecimento serve como o repositório primário de informações para agentes de suporte e clientes.
+
+Modelos de artigos: Modelos padronizados para criar artigos consistentes e bem estruturados na Base de Conhecimento, facilitando a criação e atualização de conteúdo.
+
+Perguntas frequentes (FAQs): Uma lista de perguntas comuns dos clientes e suas respostas correspondentes, destinada a fornecer soluções rápidas para questões recorrentes.
+
+Fluxos de trabalho de resolução: Procedimentos passo a passo ou fluxos de trabalho que orientam os agentes de suporte na resolução eficiente de problemas específicos.
+Métricas de desempenho: Conjunto de métricas e KPIs (Key Performance Indicators) para medir o sucesso da implementação do KCS, incluindo a eficiência do suporte, a satisfação do cliente e a taxa de resolução na primeira interação.
+Comunidade de prática: Um ambiente onde os agentes de suporte podem compartilhar conhecimento, discutir desafios e colaborar na resolução de problemas.
+
+Ferramentas de busca: Tecnologias de busca eficazes para localizar rapidamente informações na Base de Conhecimento, permitindo acesso fácil a artigos e documentos relevantes.
+
+Treinamento e desenvolvimento: Programas de treinamento para capacitar os agentes de suporte na utilização adequada do KCS e na criação de conteúdo de qualidade.
+
+Governança e políticas: Diretrizes e políticas que estabelecem como o conhecimento é criado, mantido, atualizado e retirado da Base de Conhecimento.
+
+Feedback e revisão: Processos para coletar feedback dos agentes e clientes sobre o conteúdo da Base de Conhecimento e revisar e atualizar regularmente as informações conforme necessário.
+
+Esses ativos de conhecimento formam a base para uma implementação bem-sucedida do KCS, permitindo que a organização aproveite ao máximo a gestão eficaz do conhecimento para melhorar o suporte ao cliente e a eficiência operacional.

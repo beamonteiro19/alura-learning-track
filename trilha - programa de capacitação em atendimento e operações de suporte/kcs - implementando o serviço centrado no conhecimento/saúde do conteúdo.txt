@@ -1,0 +1,16 @@
+A aula aborda como manter a qualidade dos artigos de conhecimento no KCS. Os pontos principais são:
+
+Características dos artigos: Devem ser modulares, criados sob demanda e com no máximo uma lauda, para evitar que o cliente se perca em informações muito densas. Se necessário, podem ser interligados com outros artigos.
+
+Estrutura do artigo: Todo artigo deve conter:
+
+Questão: uma frase específica explicando qual é o problema e a necessidade
+Ambiente: descrição da situação específica do cliente, incluindo produto, funcionalidade, configurações e mudanças recentes
+Causa: quando disponível, a raiz do problema
+Solução: etapas numeradas e claras para resolver o problema
+Metadados: informações como data de criação, autor e histórico de modificações
+Recursos visuais: É recomendado usar imagens, vídeos, GIFs, setas e caixas coloridas para tornar o conteúdo mais didático e fácil de compreender.
+
+Status e governança: Os artigos devem indicar se estão em andamento ou validados, e é importante definir quem pode editá-los e para quais públicos estarão disponíveis, considerando diferentes planos de clientes.
+
+A ideia central é garantir que o conteúdo seja acessível, claro e bem organizado para facilitar a compreensão e resolução de problemas pela clientela.

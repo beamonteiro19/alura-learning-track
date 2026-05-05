@@ -1,0 +1,11 @@
+A aula aborda como melhorar continuamente os artigos de conhecimento dentro do loop de solução, usando a experiência coletiva como base. O Waze é citado como exemplo de como dados compartilhados pela comunidade melhoram a experiência de todos.
+
+Os principais pontos são:
+
+Reutilizar é revisar: As pessoas que trabalham no dia a dia da operação são as melhores para criar artigos de conhecimento. Toda informação que você estrutura para resolver uma demanda do cliente vale a pena ser incluída na base de conhecimento, especialmente quando gera esforço e trabalho.
+
+Sinalize ou corrija: Se você perceber problemas em um artigo e tiver permissão e confiança, corrija. Caso contrário, sinalize para quem pode resolver. Não deixe informações incorretas ou mal vinculadas passarem despercebidas.
+
+Propriedade coletiva: A base de conhecimento não pertence a ninguém específico, mas a todas as pessoas. Todos têm responsabilidade de atualizá-la quando perceberem problemas ou artigos inadequados.
+
+Avaliação de valor: É importante avaliar como o conhecimento está sendo utilizado para melhorar a experiência do cliente, aumentar a eficiência operacional e impulsionar a excelência no suporte. Quando algo não faz sentido, pode ser necessário mudar a forma de escrever e ilustrar o conhecimento.

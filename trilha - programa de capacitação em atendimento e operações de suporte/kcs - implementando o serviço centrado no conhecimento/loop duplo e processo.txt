@@ -1,0 +1,8 @@
+
+A aula apresenta os dois loops que formam o ciclo de melhoria contínua do KCS: o loop de solução e o loop de evolução.
+
+Loop de Solução é o nível operacional onde os agentes de suporte (trabalhadores de conhecimento) executam suas atividades diárias. Nele, realizam a captura de informações, melhoria e estruturação de artigos, além da reutilização dessas informações no dia a dia. É onde acontecem as ações práticas de resolução de atendimentos e criação de artigos.
+
+Loop de Evolução é o nível organizacional que envolve a liderança e uma visão mais ampla da metodologia. Aqui, analisa-se múltiplos eventos e artigos, avalia-se o desempenho geral, a percepção do cliente e a saúde do conteúdo. É neste loop que as lideranças refinam e padronizam os processos e estruturas para que os agentes de suporte possam utilizá-los de forma consistente no loop de solução.
+
+Esses dois loops trabalham juntos formando o loop duplo do KCS, criando um ciclo contínuo onde a prática diária alimenta a análise estratégica, que por sua vez melhora as práticas operacionais.

@@ -1,0 +1,26 @@
+Customer Success e OKR
+Objectives and Key Results (OKR), ou Objetivos e Resultados-Chave em português, é uma metodologia composta de objetivo(s) e um conjunto de resultados-chave. Esses objetivos estão alinhados com uma estratégia, já os resultados-chave são uma métrica que contribui para medir o progresso do objetivo estabelecido.
+
+A maneira mais conhecida de elaborar um OKR é com a fórmula de Doerr, desenvolvida por John Doerr:
+
+Eu vou (objetivo) medido por (resultados-chave).
+
+Exemplo de OKR:
+
+Eu vou: ser a melhor empresa no meu segmento
+
+Medido por: aumentar meu crescimento 50% a mais que o meu concorrente.
+
+OKRs podem ajudar na definição das vantagens e dos benefícios que podem ser desenvolvidos para o sucesso de clientes, por exemplo, por meio da identificação de melhorias que o time de CS pode elaborar.
+
+Com a utilização de OKRs, times de CS podem:
+
+Manter o foco nos objetivos;
+Desenvolver maior alinhamento na equipe;
+Manter engajamento na equipe;
+Ser ágil e adaptável às mudanças que podem ocorrer.
+Se você quer saber como alcançar resultados por meio de OKRS, confira o curso "OKR: direcionando seu negócio para resultados". Nele você conhecerá:
+
+Como aplicar OKRs;
+As diferenças de uso de OKR e KPIs (Key Performance Indicators);
+Como registrar e acompanhar a evolução dos seus OKRs.

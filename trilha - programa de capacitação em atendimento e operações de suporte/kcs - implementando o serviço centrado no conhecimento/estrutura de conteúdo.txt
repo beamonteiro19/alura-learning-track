@@ -1,0 +1,10 @@
+A aula apresenta três técnicas principais para estruturar o conhecimento dentro do loop de solução do KCS:
+
+1. Use modelos simples
+Organize os artigos de forma clara e direta, seguindo a estrutura: Problema, Ambiente, Soluções e Causas (opcionalmente). Evite complicações desnecessárias. Lembre-se de que os artigos devem conter experiências reutilizáveis, não informações específicas de um único cliente. É importante filtrar o conteúdo para que toda a base de clientes consiga entender e encontrar o que precisa.
+
+2. Pensamentos completos, não frases completas
+Use as palavras-chave do cliente que solicitou a solução, mas não todas elas. Faça um filtro inteligente para disponibilizar o conhecimento de forma padronizada e com qualidade. A ideia é transformar o que você já faz em algo estruturado e compartilhável, permitindo que outras pessoas acessem, modifiquem e reutilizem esse conhecimento.
+
+3. Conceitos suficientes para resolver
+Inclua apenas as informações necessárias para resolver o problema de forma rápida e imediata. Evite explicações excessivas que possam confundir. O foco é disponibilizar conhecimento objetivo e confiável na base, respeitando o padrão de qualidade que seus clientes esperam.

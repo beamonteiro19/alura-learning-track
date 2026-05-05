@@ -1,0 +1,12 @@
+
+A aula aborda o papel essencial das métricas e dados no Customer Success. O gerente de sucesso do cliente é responsável por apoiar a empresa cliente, apresentar ações baseadas em descobertas anteriores e acompanhar indicadores de sucesso.
+
+O profissional de Customer Success trabalha com três focos principais: o sucesso da empresa cliente, o sucesso da companhia em que atua e o sucesso de sua própria carreira.
+
+Na prática, você aprendeu que é importante levar dados que contam a história da parceria com o cliente. O exemplo da Ana, diretora de serviços financeiros, mostra como apresentar análises relevantes como volume e tempo de aprovação de pagamentos, valor total aprovado e percentual de falhas corrigidas.
+
+A aula também diferencia dois conceitos fundamentais:
+
+Métricas são medidas individuais, coletáveis e quantificáveis. Indicadores, por sua vez, são grupos de métricas que trazem visão de performance através de mais de uma variável.
+
+Por fim, você conheceu os principais indicadores em Customer Success, divididos em duas categorias: indicadores de qualidade (Health Score, retenção, Churn Rate, NPS, engajamento e taxa de conversão) e indicadores de receita (MRR, Upsell, Cross-sell e LTV).

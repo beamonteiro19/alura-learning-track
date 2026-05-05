@@ -1,0 +1,13 @@
+O loop de solução, que é o processo central do KCS no contexto do ByteBank. Usando o exemplo de Sérgio atendendo um cliente com problema em uma transação bancária, a aula mostra na prática como funciona esse ciclo.
+
+O loop de solução é composto por quatro etapas principais:
+
+Captura - Sérgio coleta as informações do cliente, como o contexto do problema, e documenta detalhes (por exemplo, através de screenshots).
+
+Estrutura - As informações são organizadas seguindo o padrão de artigo estabelecido pelo ByteBank, garantindo consistência e clareza.
+
+Validação ou melhoria - Sérgio valida se as informações estão coerentes com o problema relatado. Se houver um artigo já existente, ele pode ser melhorado.
+
+Utilização e reutilização - Após a validação do cliente confirmando que o conhecimento resolve de fato o problema, esse artigo é inserido na base centralizada, onde fica disponível para toda a empresa e para os clientes.
+
+Essas quatro etapas formam um ciclo contínuo que transforma problemas pontuais em conhecimento compartilhado e reutilizável.

@@ -1,0 +1,11 @@
+A aula aborda técnicas importantes para otimizar o uso do conhecimento dentro do loop de solução do KCS.
+
+Pesquisa e compartilhamento de informações é o primeiro ponto. Antes de criar um novo artigo, você deve pesquisar na base de conhecimento para verificar se o assunto já foi abordado. Além disso, é fundamental comunicar-se com sua equipe para identificar se outras pessoas estão trabalhando no mesmo problema, evitando duplicação de esforços.
+
+Saber quando parar a pesquisa também é essencial. Se você já refinou sua busca várias vezes sem encontrar a informação ou se o contexto é diferente, é hora de criar um novo artigo.
+
+Compreender antes de resolver reforça a importância de entender verdadeiramente o problema do cliente antes de agir. Use técnicas como perguntas-chave para captar o contexto real da situação.
+
+Vinculação é outra técnica crucial. Você deve associar proativamente os registros existentes (e-mails, casos, incidentes, redes sociais) aos artigos de conhecimento já disponíveis. Isso inclui conectar macros de suporte aos artigos relevantes.
+
+Por fim, a aula enfatiza a importância do Omnichannel e de uma interface de pesquisa unificada, garantindo que o cliente tenha uma única visualização onde possa acessar todo o conhecimento disponível, independentemente de quantas bases de dados existam.

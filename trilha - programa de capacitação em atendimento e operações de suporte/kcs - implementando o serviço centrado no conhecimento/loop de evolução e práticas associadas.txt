@@ -1,0 +1,7 @@
+O vídeo apresenta o caso do ByteBank, um banco que enfrentava desafios com sua base de conhecimento. O problema era que a clientela tinha dificuldade em passar feedbacks sobre os artigos, as lideranças não estavam envolvidas no processo e a equipe não utilizava a base de conhecimento corretamente. Isso gerava sobrecarga desnecessária em algumas pessoas.
+
+Após alinhamentos internos e novos treinamentos, o ByteBank conseguiu reformular sua base de conhecimento e estruturar melhor as demandas, melhorando a experiência tanto da clientela quanto dos colaboradores.
+
+O ponto central da aula é que o loop de evolução e o loop de solução são interdependentes. O loop de evolução valida se o loop de solução está funcionando bem, envolve a liderança, realiza treinamentos quando necessário e melhora a experiência da clientela. Sem o loop de evolução, o loop de solução pode ficar defasado e gerar retrabalhos e sobrecargas.
+
+Em resumo: os dois loops precisam estar interligados para que o KCS funcione adequadamente.

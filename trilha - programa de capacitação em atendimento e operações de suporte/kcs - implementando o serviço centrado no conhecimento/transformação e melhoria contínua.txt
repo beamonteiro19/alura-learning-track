@@ -1,0 +1,5 @@
+A aula aborda a transformação e melhoria contínua através do KCS, destacando que sua adoção vai muito além de apenas implementar práticas e processos. Envolve uma mudança cultural e operacional na mentalidade da equipe, incentivando colaboração, aprendizagem contínua e o conhecimento como fonte primária da organização.
+
+Um ponto importante é que os processos de loop duplo do KCS são autocorretivos, funcionando em dois níveis: o loop de solução (nível do evento), onde capturamos e desenvolvemos informações, e o loop de evolução (nível organizacional).
+
+A visão apresentada é de uma organização onde o conhecimento flui livremente, sem barreiras entre times, permitindo que todos contribuam de forma ágil na resolução e identificação de problemas. O KCS representa essa transformação cultural, uma mudança de hábitos e um empoderamento das pessoas colaboradoras, tornando-se essencial tanto para o Bytebank quanto para qualquer organização que deseje implementá-lo.
